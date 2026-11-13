@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**Aaliyah-Sacoor/Aaliyah-Sacoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm an AI & Machine Learning Engineer.
 
-Here are some ideas to get you started:
+I'm building **Foundation - Digital Creationists**, an independent creative technology studio exploring intelligent software, meaningful automation and beautiful digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My engineering focus
+- Applied machine learning and AI systems
+- Retrieval-augmented generation and knowledge engineering
+- Python, TypeScript and full-stack software
+- Reliable and responsible AI applications
+
+## What I'm building
+- Foundation's interactive website
+- Digital experiences and event software
+- A document intelligence and temporal reasoning prototype
+
+## My approach
+Learn deeply. Build thoughtfully. Explain clearly.
+
+*Currently building and documenting my engineering portfolio.*
